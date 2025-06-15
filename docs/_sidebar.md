@@ -6,4 +6,5 @@
 - Guides
     - [Firmware Recovery](firmware-recovery-guide.md)
     - [Wideband Entitlement](wideband-installation-guide.md)
-    - [Getting the CPS software]()
+    - [Signing up for a Motorola Business Account](motorola-business-account.md)
+    - [Getting the CPS software](cps.md)
