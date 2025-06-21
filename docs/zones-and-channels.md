@@ -112,6 +112,7 @@ The radio is programmed with FRS/GMRS channels 1–22 and the 8 GMRS repeater ch
 | Repeater 7     | 467.7000/462.7000 | High Power  | 20 kHz         | RX/TX pair for repeater    |
 | Repeater 8     | 467.7250/462.7250 | High Power  | 20 kHz         | RX/TX pair for repeater    |
 
+Source: [Radio Reference](https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart)
 ## Analog Channels
 
 The following analog channel is programmed for simplex operation:
