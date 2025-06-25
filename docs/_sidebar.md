@@ -2,6 +2,7 @@
 
 - My Journey
     - [Buying the radio](buying-the-radio.md)
+    - [Roadmap](roadmap.md)
 
 - Guides
     - [Codeplug](zones-and-channels.md)
